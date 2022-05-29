@@ -3,7 +3,7 @@
 Making supervised classification models to predict whether a person has Parkinson or not.
 ### Files:<br> 
 The repository contains following files:<br>
-a)Final_Assignment: Contains teh code.<br>
+a)Final_Assignment: Contains the code.<br>
 b)parkinsons.data.csv: The data set used for making models.<br>
 
 
@@ -17,7 +17,7 @@ Following Python libraries are used:<br>
 4)Seaborn<br>
 5)Plotly<br>
 6)Matplotlib<br>
-
+7)SHAP
 
 
 ### Course Supervisors
