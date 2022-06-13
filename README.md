@@ -19,8 +19,8 @@ Following Python libraries are used:<br>
 6)Matplotlib<br>
 
 
-### Course Supervisors
-Bart Bernard
+### Course Supervisor
+Fenna Feenstra
 
 ### License
 Distributed under the GNU General Public License v3.0. See file <b>LICENSE.txt</b> for more information.
