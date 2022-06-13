@@ -1,26 +1,26 @@
 # FinalAssignment_SupervisedMachineLearning
-### Assignment question:
+Assignment question:
 Making supervised classification models to predict whether a person has Parkinson or not.
-### Files:<br> 
-The repository contains following files:<br>
-a)Lung3.metadata.xls: Contains the inforamtion of patients.<br>
-b)GSE58661_series_matrix.txt: Contains gene expresion data.<br>
 
+Files:
+The repository contains following files:
+a)Final_Assignment: Contains the code.
+b)parkinsons.data.csv: The data set used for making models.
 
-### Softwares:
-Following softwares are employed in the assignment:<br>
-Python- For data analysis.<br>
-Following Python libraries are used:<br>
-1)Pandas<br>
-2)Numpy<br>
-3)Sklearn<br>
-4)Seaborn<br>
-5)Plotly<br>
-6)Matplotlib<br>
+Softwares:
+Following softwares are employed in the assignment:
+Python- For data analysis.
+Following Python libraries are used:
+1)Pandas
+2)Numpy
+3)Sklearn
+4)Seaborn
+5)Plotly
+6)Matplotlib
+7)SHAP
 
+Course Supervisors
+Bart Bernard
 
-### Course Supervisor
-Fenna Feenstra
-
-### License
-Distributed under the GNU General Public License v3.0. See file <b>LICENSE.txt</b> for more information.
+License
+Distributed under the GNU General Public License v3.0. See file LICENSE.txt for more information.
